@@ -1,5 +1,5 @@
 # 📦 Sortieranlage mit Förderband & 3 Ausschiebern  
-### Grundkurs SPS – Aufgabe 7 (TIA Portal, FUP)
+###  (TIA Portal, FUP)
 
 Dieses Projekt zeigt die vollständige Umsetzung einer Sortieranlage in **Siemens TIA Portal** mit **FUP‑Programmierung**.  
 Pakete werden erkannt, zeitverzögert transportiert und über drei Ausschieber gleichmäßig verteilt.  
@@ -92,4 +92,4 @@ Alle verwendeten Eingänge, Ausgänge und Merker sind hier dokumentiert.
 
 ## 🛠️ Hinweis
 Dieses Projekt wurde bewusst in **FUP** umgesetzt.  
-Eine spätere Erweiterung in **SCL** (z. B. mit Zustandsautomaten) ist möglich.
+
