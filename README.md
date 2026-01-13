@@ -31,53 +31,53 @@ Alle Netzwerke sind dokumentiert und als Screenshots beigefügt.
 # 🧩 Netzwerke im Detail
 
 ### Netzwerk 2 – Start/Stop/Not‑Aus
-![Netzwerk 2](Screenshots/Netzwerk2.PNG)  
+![Netzwerk 2](Netzwerk2.PNG)  
 SR-Logik für Anlagenstart. Stop oder Not-Aus setzen die Anlage zurück.
 
 ### Netzwerk 3 – Förderband mit TON
-![Netzwerk 3](Screenshots/Netzwerk3.PNG)  
+![Netzwerk 3](Netzwerk3.PNG)  
 TON-Timer sorgt für 1s Einschaltverzögerung. Danach wird „Förderband_belegt“ gesetzt.
 
 ### Netzwerk 4 – Ausschieber 1 ansteuern
-![Netzwerk 4](Screenshots/Netzwerk4.PNG)  
+![Netzwerk 4](Netzwerk4.PNG)  
 CTU zählt Pakete. Wenn Zählerstand = 1 → Ausschieber 1 wird aktiviert.
 
 ### Netzwerk 5 – Ausschieber 2 ansteuern
-![Netzwerk 5](Screenshots/Netzwerk5.PNG)  
+![Netzwerk 5](Netzwerk5.PNG)  
 Wenn Zählerstand = 2 → Ausschieber 2 wird aktiviert.
 
 ### Netzwerk 6 – Ausschieber 3 ansteuern
-![Netzwerk 6](Screenshots/Netzwerk6.PNG)  
+![Netzwerk 6](Netzwerk6.PNG)  
 Wenn Zählerstand = 3 → Ausschieber 3 wird aktiviert. Danach Reset → Zyklus beginnt neu.
 
 ### Netzwerk 7 – Leuchte Start
-![Netzwerk 7](Screenshots/Netzwerk7.PNG)  
+![Netzwerk 7](Netzwerk7.PNG)  
 Grüne Leuchte zeigt: Anlage läuft.
 
 ### Netzwerk 8 – Leuchte Stop
-![Netzwerk 8](Screenshots/Netzwerk8.PNG)  
+![Netzwerk 8](Netzwerk8.PNG)  
 Rote Leuchte zeigt: Anlage gestoppt.
 
 ### Netzwerk 9 – Motor Förderband
-![Netzwerk 9](Screenshots/Netzwerk9.PNG)  
+![Netzwerk 9](Netzwerk9.PNG)  
 Förderband läuft nur, wenn Anlage gestartet und Förderband belegt ist.
 
 ### Netzwerk 10 – Ausschieber 1 ausfahren + Band
-![Netzwerk 10](Screenshots/Netzwerk10.PNG)  
+![Netzwerk 10](Netzwerk10.PNG)  
 Ausschieber 1 fährt aus, Band 1 läuft während des Ausschiebens.
 
 ### Netzwerk 11 – Ausschieber 2 ausfahren + Band
-![Netzwerk 11](Screenshots/Netzwerk11.PNG)  
+![Netzwerk 11](Netzwerk11.PNG)  
 Ausschieber 2 fährt aus, Band 2 läuft während des Ausschiebens.
 
 ### Netzwerk 12 – Ausschieber 3 ausfahren + Band
-![Netzwerk 12](Screenshots/Netzwerk12.PNG)  
+![Netzwerk 12](Netzwerk12.PNG)  
 Ausschieber 3 fährt aus, Band 3 läuft während des Ausschiebens.
 
 ---
 
 ## 📘 PLC-Variablentabelle
-![PLC Variablen](Screenshots/PLC_Variablen.PNG)  
+![PLC Variablen](PLC_Variablen.PNG)  
 Alle verwendeten Eingänge, Ausgänge und Merker sind hier dokumentiert.
 
 ---
