@@ -5,6 +5,9 @@ Dieses Projekt zeigt die vollständige Umsetzung einer Sortieranlage in **Siemen
 Pakete werden erkannt, zeitverzögert transportiert und über drei Ausschieber gleichmäßig verteilt.  
 Alle Netzwerke sind dokumentiert und als Screenshots beigefügt.
 
+## 🎥 Demo-Video der Sortieranlage  
+https://github.com/Dimitrios-Giannakakos/SPS-3-Ausschieber-System/raw/main/Factory%20IO.mp4
+
 ---
 
 ## 🚀 Funktionsübersicht
@@ -86,7 +89,6 @@ Alle verwendeten Eingänge, Ausgänge und Merker sind hier dokumentiert.
 - Grundlagen der SPS‑Programmierung festigen  
 - Arbeiten mit FUP, TON, CTU und SR  
 - Realistische Sortierlogik umsetzen  
-- Dokumentation für GitHub & Portfolio
 
 ---
 
